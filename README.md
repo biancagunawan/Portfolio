@@ -6,7 +6,7 @@ This is a sample of previous Data Science and Analytics projects I've worked on,
 - Machine Learning: Scikit-Learn, XGBoost
 
 ## Projects
-- Deep Learning: Racial Bias in Image Recognition
+- Racial Bias in Deep Learning Image Recognition: Explored the impact of more diverse data sets on model performancet to evaluate the existence of racial bias of different models given same data.
 - Loan Predicition with Machine Learning
 - CLustering Exercise with Unsupervised Machine Learning
 - Exploratory Data Analysis: Fitness Center
