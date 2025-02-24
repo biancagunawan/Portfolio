@@ -10,4 +10,4 @@ This is a sample of previous Data Science projects I've worked on, fopcusing on 
 - Loan Predicition with Machine Learning: Complete data analysis, feature engineering, and comparison of various machine learnings models built for loan rate prediction.
 - Clustering Exercise with Unsupervised Machine Learning: Clustering exercises with K-Means, DBSCAN, and Hierarchical Clustering
 - Sentiment Analysis of U.S. Airlines from X/Twitter: Identified major sentiments towards various U.S. Airlines from X/Twitter data to create marketing strategy recommendations
-- [Exploratory Data Analysis of Fitness Center Data](Fitness Center EDA.ipynb)
+- [Exploratory Data Analysis of Fitness Center Data](https://github.com/biancagunawan/Portfolio/blob/f2c07beb473c7b587dc71e89f2357f8b34ecc744/Fitness%20Center%20EDA.ipynb)
