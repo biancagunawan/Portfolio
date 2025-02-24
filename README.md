@@ -6,7 +6,7 @@ This is a sample of previous Data Science projects I've worked on, fopcusing on 
 - Machine Learning: Scikit-Learn, XGBoost
 
 ## Projects
-- Racial Bias in Deep Learning Image Recognition: Explored the impact of more diverse data sets on model performancet to evaluate the existence of racial bias of different models given same data.
+- [Racial Bias in Deep Learning Image Recognition](https://github.com/biancagunawan/Portfolio/blob/3ad4939107261a59e6728c993255a1c1efa4c6aa/Deep%20Learning%20Racial%20Bias%20in%20Image%20Recognition.pdf): Explored the impact of more diverse data sets on model performancet to evaluate the existence of racial bias of different models given same data.
 - [Loan Predicition with Machine Learning](https://github.com/biancagunawan/Portfolio/blob/719ed473845d384bbee4c27a883d68cf244b470d/Loan%20Prediction.ipynb): Complete data analysis, feature engineering, and comparison of various machine learnings models built for loan rate prediction.
 - Clustering Exercise with Unsupervised Machine Learning: Clustering exercises with K-Means, DBSCAN, and Hierarchical Clustering
 - Sentiment Analysis of U.S. Airlines from X/Twitter: Identified major sentiments towards various U.S. Airlines from X/Twitter data to create marketing strategy recommendations
